@@ -1,4 +1,4 @@
-# Dark-Sky-simulation---Scientific-Visualization
+# Dark Sky Simulation - IEEE Scientific Visualization Contest 2015
 
 Please check the project links for more details
 
